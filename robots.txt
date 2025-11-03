@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://PaulSchubert.github.io/sitemap.xml
